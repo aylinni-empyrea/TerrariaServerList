@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NewyRuby.TerrariaServerList</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>NewyRuby</authors>
+    <owners>NewyRuby</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/DeadSurgeon42/TerrariaServerList</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for interacting with TerrariaServerList API</description>
+    <releaseNotes>Initial nuget release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>terraria tshock terraria-server-list</tags>
+  </metadata>
+</package>
